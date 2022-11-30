@@ -2,3 +2,7 @@
 /AzureBlobStorage/AzureBlobStorage/obj
 /ComosDB/CosmosDbApp/CosmosDbApp/obj
 /ComosDB/CosmosDbApp/CosmosDbApp/bin
+/EventHubs/Receiver/obj
+/EventHubs/Receiver/bin
+/EventHubs/EventEmitter/EventEmitter/obj
+/EventHubs/EventEmitter/EventEmitter/bin
