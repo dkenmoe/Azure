@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n7MP8NK3BqJV2u8ECd7tlm2dY0UkFmlEsv3WFBPcQSE=",
+  "Source": "dotnetAKS",
+  "BasePath": "_content/dotnetAKS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
